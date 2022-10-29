@@ -11,7 +11,13 @@
 
 This task is about car renting. At the same time one user can have one car and one car can't have more than one user at the moment.
 
+## Run Program
+To run program following commands should be run
+- ``php artisan migrate``
+- ``php artisan db:seed``
+- ``php artisan test``
+
 ## Documentation
 
-The api documentation is stored under "public/documentation" folder
+The api documentation is stored under `public/documentation` folder
 
